@@ -3,18 +3,10 @@ This project applies various machine learning algorithms to predict diabetes ris
 
 📁 Dataset Features
 The dataset contains the following attributes:
+- `hdl_chol` — Good cholesterol
+- `systolic_bp`, `diastolic_bp` — Blood pressure readings
+- `diabetes` — Target variable
 
-cholesterol
-glucose
-hdl_chol (Good cholesterol)
-age
-gender
-height
-weight
-bmi
-systolic_bp, diastolic_bp
-waist, hip
-diabetes (Targt variable)
 📊 Exploratory Data Analysis (EDA)
 Bar Plots: Gender, diabetes status
 Histograms: Cholesterol, glucose, BMI, age, blood pressure, etc.
