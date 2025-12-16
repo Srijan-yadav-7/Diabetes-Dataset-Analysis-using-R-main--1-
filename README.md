@@ -1,4 +1,5 @@
 🧠 Diabetes Prediction using Machine Learning in R
+
 This project applies various machine learning algorithms to predict diabetes risk using health metrics. It includes exploratory data analysis, data cleaning, visualizations, and performance evaluation of models like KNN. The project was done using the R programming language.
 
 📁 Dataset Features
@@ -8,6 +9,7 @@ The dataset contains the following attributes:
 - `diabetes` — Target variable
 
 📊 Exploratory Data Analysis (EDA)
+
 Bar Plots: Gender, diabetes status
 Histograms: Cholesterol, glucose, BMI, age, blood pressure, etc.
 Boxplots: Outlier detection in key metrics
