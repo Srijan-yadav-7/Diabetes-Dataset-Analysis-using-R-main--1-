@@ -10,13 +10,21 @@ The dataset contains the following attributes:
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-Bar Plots: Gender, diabetes status
-Histograms: Cholesterol, glucose, BMI, age, blood pressure, etc.
-Boxplots: Outlier detection in key metrics
-Transformations: Cleaned BMI (converted from text to numeric)
-⚙️ Model Building
-The dataset was split into 80% training and 20% testing sets.
+- **Bar Plots:** Gender, diabetes status  
+- **Histograms:** Cholesterol, glucose, BMI, age, blood pressure, etc.  
+- **Boxplots:** Outlier detection in key metrics  
+- **Transformations:** Cleaned BMI *(converted from text to numeric)*  
 
-K-Nearest Neighbors (KNN) was used for classification, with normalization applied to numeric features.
+---
 
-✅ Model Accuracy:92.34%
+## ⚙️ Model Building
+
+The dataset was split into **80% training** and **20% testing** sets.
+
+**K-Nearest Neighbors (KNN)** was used for classification, with normalization applied to numeric features.
+
+---
+
+## ✅ Model Accuracy
+
+**Model Accuracy:** **92.34%**
