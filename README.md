@@ -8,7 +8,7 @@ The dataset contains the following attributes:
 - `systolic_bp`, `diastolic_bp` — Blood pressure readings
 - `diabetes` — Target variable
 
-### 📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Bar Plots: Gender, diabetes status
 Histograms: Cholesterol, glucose, BMI, age, blood pressure, etc.
